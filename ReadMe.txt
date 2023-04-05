@@ -8,4 +8,4 @@ steps ->
 2) Explanation
 3) Installation Guide (for large project make it seperatly)
 
-this update is after forking the file
+this update is after forking the file and its ok
